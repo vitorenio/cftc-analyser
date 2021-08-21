@@ -3,3 +3,5 @@ tradingview_ta
 yfinance
 pandas
 openpyxl
+datetime
+alive-progress
